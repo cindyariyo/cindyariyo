@@ -34,7 +34,7 @@ A Computer Science major at Trinity College Dublin with a passion for exploring 
 
 - Email: ariyocindy@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cindyariyo/
-- Personal website: cindyariyo.com
+- Personal website: https://cindyariyo.com/
 
 
 
