@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Cindy Ariyo!
 
 
-A Computer Science major at Trinity College Dublin with a passion for exploring new technologies and working on innovative projects!
+A final year Computer Science major at Trinity College Dublin with a passion for exploring new technologies and working on innovative projects!
 
 
 
@@ -16,9 +16,8 @@ A Computer Science major at Trinity College Dublin with a passion for exploring 
 # 💻 Tech Stack:
 
 - Languages: Python, Java, JavaScript, HTML, CSS
-- Frameworks/Libraries: React, Node.js, Next.js
-- Tools & Databases: Git, Docker, VSCode, Firebase, Firestore
-- Technologies: RESTful APIs
+- Frameworks/Libraries: React, Node.js, Next.js, FastAPI
+- Tools: Github, Docker, Jenkins
 
 
 
