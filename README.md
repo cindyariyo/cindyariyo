@@ -7,17 +7,17 @@ A final year Computer Science major at Trinity College Dublin with a passion for
 
 # 🔭 Currently working on/Learning 🌱:
 
-- Full-stack web development
-- Building projects using Python, React, Next.js and APIs
+- Full-stack web development (React, Next.js, Node.js, FastAPI)
 - Exploring machine learning and AI applications
-  
+- Building and deploying projects using Docker, Jenkins, and cloud platforms
+- Learning database design and NoSQL systems (MongoDB)
 
 
 # 💻 Tech Stack:
 
 - Languages: Python, Java, JavaScript, HTML, CSS
 - Frameworks/Libraries: React, Node.js, Next.js, FastAPI
-- Tools: Github, Docker, Jenkins
+- Tools: Github, MongoDB, Docker, Jenkins
 
 
 
